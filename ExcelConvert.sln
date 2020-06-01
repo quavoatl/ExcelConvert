@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelConvert", "ExcelConvert\ExcelConvert.csproj", "{37FADEB2-187D-46D5-A2F0-1935837C787C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FADEB2-187D-46D5-A2F0-1935837C787C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FADEB2-187D-46D5-A2F0-1935837C787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FADEB2-187D-46D5-A2F0-1935837C787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FADEB2-187D-46D5-A2F0-1935837C787C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3A4D35-2245-45F2-B34F-569AAC98D563}
+	EndGlobalSection
+EndGlobal
